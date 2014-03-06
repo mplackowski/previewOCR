@@ -24,3 +24,7 @@ How it works:
                
 More here: 
 https://github.com/mplackowski/previewOCR/wiki
+
+
+Sample Screenshot
+http://i.imgur.com/dS9zpo1.png
