@@ -35,7 +35,7 @@ Sample Screenshot
 TODO:
 - Expose Camera object and its options for easy changes
 - Test on different devices
-- Improve landscape mode (for not preview always fits parent view) - it can be stretched now
+- Improve landscape mode (for now preview always fits parent view) - it can be stretched now
 
 Credits: (all helpful sources that was used to build that project)
 - https://github.com/GautamGupta/Simple-Android-OCR
