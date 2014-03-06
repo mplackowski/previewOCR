@@ -30,3 +30,8 @@ Sample Screenshot
 
 ![alt tag](http://i.imgur.com/dS9zpo1.png)
 
+TODO:
+- Expose Camera object and its options for easy changes
+- Test on different devices
+- Improve landscape mode (for not preview always fits parent view) - it can be stretched now
+
