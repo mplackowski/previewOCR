@@ -37,3 +37,10 @@ TODO:
 - Test on different devices
 - Improve landscape mode (for not preview always fits parent view) - it can be stretched now
 
+Credits: (all helpful sources that was used to build that project)
+- https://github.com/GautamGupta/Simple-Android-OCR
+- http://developer.android.com/guide/topics/media/camera.html
+- http://developer.android.com/samples/MediaRecorder/index.html
+- https://github.com/rmtheis/tess-two 
+
+
