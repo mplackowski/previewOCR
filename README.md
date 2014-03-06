@@ -23,7 +23,9 @@ How it works:
                .start();                    // Starts preview and OCR
                
 More here: 
-https://github.com/mplackowski/previewOCR/wiki
+
+- WIKI https://github.com/mplackowski/previewOCR/wiki
+- Sample Activity https://github.com/mplackowski/previewOCR/blob/master/src/com/gmail/mplackowski/previewocr/MainActivity.java
 
 
 Sample Screenshot
