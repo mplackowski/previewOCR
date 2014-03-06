@@ -27,5 +27,6 @@ https://github.com/mplackowski/previewOCR/wiki
 
 
 Sample Screenshot
+
 ![alt tag](http://i.imgur.com/dS9zpo1.png)
 
